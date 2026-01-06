@@ -15,7 +15,6 @@ Row Layouts
 
 Column Layouts
 
-# Each section includes a short description, helping reinforce how these core building blocks work in Compose.
 
 # This project focuses on:
 ✔ Declarative UI design
@@ -49,7 +48,7 @@ Strengthen my foundation in modern Android UI frameworks
 
 This is just one step in my journey toward becoming a skilled and professional Android developer — always learning, experimenting, and refining my craft.
 
-# 📷 Screenshots (Optional)
+# 📷 Screenshots
 
 <img height="400" alt="image" src="https://github.com/user-attachments/assets/c44663c2-a819-49f0-b763-62a954422573" />
 
