@@ -51,7 +51,7 @@ This is just one step in my journey toward becoming a skilled and professional A
 
 # 📷 Screenshots (Optional)
 
-![Screenshot_2026-01-06-18-52-52-258_com example quadrant](https://github.com/user-attachments/assets/c44663c2-a819-49f0-b763-62a954422573)
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/c44663c2-a819-49f0-b763-62a954422573" />
 
 
 # 📚 What I Learned
